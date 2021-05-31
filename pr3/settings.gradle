@@ -1,0 +1,8 @@
+rootProject.name = "pr3"
+include ':app'
+include ':intentapp'
+include ':mireaproject'
+include ':resultapp'
+include ':share'
+include ':simplefragmetapp'
+include ':systemintentsapp'
